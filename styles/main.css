@@ -22,3 +22,8 @@ body {
     .diferente {
       color: purple;
     }
+    .tamano {
+
+        color:cyan;
+        font-size: 40px;
+    }
