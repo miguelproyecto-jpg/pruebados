@@ -2,7 +2,7 @@
 
 body {
 
-    background-color: rgb(210, 30, 30);
+      background-image: linear-gradient(red, yellow);;
   }
   
   .textos{
@@ -11,21 +11,22 @@ body {
     }
     
     .titulos {
-      color: rgb(0, 255, 21);
+      color: rgb(29, 54, 6);
     }
     
     .parrafo {
       color: blue;
       font-size: 14px;
+      text-shadow: 7px 7px 5px rgb(247, 244, 244);
     }
     
     .diferente {
       color: purple;
     }
     .tamano {
-
-        color:cyan;
-        font-size: 40px;
+      text-shadow: 7px 7px 5px rgb(248, 246, 246);
+      color:cyan;
+      font-size: 40px;
     }
 
     img {
