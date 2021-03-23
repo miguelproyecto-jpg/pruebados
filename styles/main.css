@@ -1,0 +1,24 @@
+/* Selectores por clase*/
+
+body {
+
+    background-color: rgb(210, 30, 30);
+  }
+  
+  .textos{
+      font-family: 'Caveat', cursive;
+  
+    }
+    
+    .titulos {
+      color: rgb(0, 255, 21);
+    }
+    
+    .parrafo {
+      color: blue;
+      font-size: 14px;
+    }
+    
+    .diferente {
+      color: purple;
+    }
